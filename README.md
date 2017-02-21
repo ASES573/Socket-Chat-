@@ -40,11 +40,16 @@ npm install
 
 ## Running the Application
 
+Navigate to the _root_ directory of the extracted file
+
+```
+node server.js
+```
 Navigate to http://localhost:8070
 
 ## Modify the port According to server Deployed
 
-Change the baseURL in  _/server.js_
+Change the basePORT in  _/server.js_
 
 ```
 server.listen(process.env.PORT || ..........);
