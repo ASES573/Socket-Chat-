@@ -27,7 +27,7 @@ v6.9.2
 ```
 ## Running the Application
 
-Extract the clone/downloaded Repository to any specified folder in your System.
+Extract the clone/downloaded Repository to any specified folder in your System for working.
 Navigate to that extracted folder
 
 ### Install all the Dependencies
